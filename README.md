@@ -1,6 +1,5 @@
 # Mission-Quizify
-An AI-generated assessment and quiz tool that dynamically generates quizzes based on user-provided documents, offering a tailored learning experience. This project is part of the Radical AI developers' projects.
-
+An AI-generated assessment and quiz tool that dynamically generates quizzes based on user-provided documents, offering a tailored learning experience
 - Task 3: Functionality for processing uploaded PDF documents using Streamlit and Langchain's PyPDFLoader
 - Task 4: EmbeddingClient class to connect to Google's GoogleGenerativeAIEmbeddings for text embeddings.
 - Task 5: ChromaCollectionCreator class to create a Chroma collection from the documents processed by the DocumentProcessor instance.
@@ -9,3 +8,5 @@ An AI-generated assessment and quiz tool that dynamically generates quizzes base
 - Task 8: Same as Task 7
 - Task 9: QuizManager class with a list of quiz questions and effective quiz navigation
 - Task 10: Same as Task 9
+  
+This project is part of the Radical AI developers' projects.
