@@ -9,4 +9,4 @@ An AI-generated assessment and quiz tool that dynamically generates quizzes base
 - Task 9: QuizManager class with a list of quiz questions and effective quiz navigation
 - Task 10: Same as Task 9
   
-This project is part of the Radical AI developers' projects.
+This project was completed as part of Radical AI developers' training.
